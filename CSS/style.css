@@ -200,7 +200,7 @@ header{
 
 footer{
 background: #010101;
-    margin-top: 6px;
+margin-top: 6px;
 }
 .footer_contact_part{
     padding-top: 50px;
@@ -236,10 +236,7 @@ background: #010101;
     margin-right: 10px;
 }
 .footer_btn{
-    width: 127px;
-    display: flex;
-    align-items: center;
-    padding: 0 35px;
+    padding: 15px 30px;
     text-transform: uppercase;
     background: #fcdb00;
     margin-left: 10px;
@@ -249,7 +246,6 @@ background: #010101;
     text-align: center;
     border-radius: 5px;
     border: 0;
-    
 }
 .footer_contact_links{
     padding: 60px 0 65px 0;
